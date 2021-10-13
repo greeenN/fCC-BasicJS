@@ -1,4 +1,4 @@
-/*34*/
+/*/*/*34*/
 
 /*var myNoun = "dog";
 var myAdjective = "big";
@@ -39,10 +39,10 @@ var myData = myArray[2][1];*/
 
 // 40
 
-/*// Setup
+// Setup
 var myArray = [["John", 23], ["cat", 2]];
 myArray.push(["dog", 3]);
-// Only change code below this line*/
+// Only change code below this line
 
 // 41
 
@@ -62,16 +62,28 @@ var removedFromMyArray = myArray.shift();*/
 
 // 43
 
-
+/*// Setup
+myArray.shift();
+myArray.unshift(["Paul", 35]);
+// Only change code below this line
 
 // 44
 
-
+var myList = [
+  ["Beer", 10],
+  ["Pasta", 1],
+  ["Vodka", 5],
+  ["Meat", 4],
+  ["Sushi", 3]
+];
 
 // 45
 
-
-
+function reusableFunction() {
+  console.log("Hi World");
+};
+reusableFunction();
+*/
 // 46
 
 
@@ -92,3 +104,4 @@ var removedFromMyArray = myArray.shift();*/
 
 
 
+*/*/

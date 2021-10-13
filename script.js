@@ -84,24 +84,74 @@ function reusableFunction() {
 };
 reusableFunction();
 */
+
 // 46
 
+function functionWithArgs(param1, param2) {
+  console.log(param1 + param2);
+}
 
+functionWithArgs(1, 2);
+functionWithArgs(7, 9);
 
 // 47
 
+// Declare the myGlobal variable below this line
+var myGlobal = 10;
 
+function fun1() {
+  // Assign 5 to oopsGlobal Here
+   oopsGlobal = 5;
+}
+
+// Only change code above this line
+
+function fun2() {
+  var output = "";
+  if (typeof myGlobal != "undefined") {
+    output += "myGlobal: " + myGlobal;
+  }
+  if (typeof oopsGlobal != "undefined") {
+    output += " oopsGlobal: " + oopsGlobal;
+  }
+  console.log(output);
+}
 
 // 48
 
+function myLocalScope() {
+var myVar;
+  // Only change code below this line
 
+  console.log('inside myLocalScope', myVar);
+}
+myLocalScope();
+
+// Run and check the console
+// myVar is not defined outside of myLocalScope
+console.log('outside myLocalScope', myVar);
 
 // 49
 
+// Setup
+var outerWear = "T-Shirt";
 
+function myOutfit() {
+  // Only change code below this line
+
+var outerWear = "sweater";
+
+  // Only change code above this line
+  return outerWear;
+}
+
+myOutfit();
 
 // 50
 
+function timesFive(arg) {
+  return arg * 5;
+}
+var answer = timesFive(5);
 
 
-*/*/

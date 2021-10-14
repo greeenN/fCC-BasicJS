@@ -1,4 +1,4 @@
-/*/*/*34*/
+/*/*/*/*/*/*/*/*34*/
 
 /*var myNoun = "dog";
 var myAdjective = "big";
@@ -39,9 +39,9 @@ var myData = myArray[2][1];*/
 
 // 40
 
-// Setup
+/*// Setup
 var myArray = [["John", 23], ["cat", 2]];
-myArray.push(["dog", 3]);
+myArray.push(["dog", 3]);*/
 // Only change code below this line
 
 // 41
@@ -62,14 +62,14 @@ var removedFromMyArray = myArray.shift();*/
 
 // 43
 
-/*// Setup
-myArray.shift();
-myArray.unshift(["Paul", 35]);
+// Setup
+/*myArray.shift();
+myArray.unshift(["Paul", 35]);*/
 // Only change code below this line
 
 // 44
 
-var myList = [
+/*var myList = [
   ["Beer", 10],
   ["Pasta", 1],
   ["Vodka", 5],
@@ -82,12 +82,12 @@ var myList = [
 function reusableFunction() {
   console.log("Hi World");
 };
-reusableFunction();
-*/
+reusableFunction();*/
+
 
 // 46
 
-function functionWithArgs(param1, param2) {
+/*function functionWithArgs(param1, param2) {
   console.log(param1 + param2);
 }
 
@@ -102,11 +102,11 @@ var myGlobal = 10;
 function fun1() {
   // Assign 5 to oopsGlobal Here
    oopsGlobal = 5;
-}
+}*/
 
 // Only change code above this line
 
-function fun2() {
+/*function fun2() {
   var output = "";
   if (typeof myGlobal != "undefined") {
     output += "myGlobal: " + myGlobal;
@@ -114,11 +114,11 @@ function fun2() {
   if (typeof oopsGlobal != "undefined") {
     output += " oopsGlobal: " + oopsGlobal;
   }
-  console.log(output);
-}
+  console.log(output);*/
+/*}*/
 
 // 48
-
+/*
 function myLocalScope() {
 var myVar;
   // Only change code below this line
@@ -129,12 +129,12 @@ myLocalScope();
 
 // Run and check the console
 // myVar is not defined outside of myLocalScope
-console.log('outside myLocalScope', myVar);
+console.log('outside myLocalScope', myVar);*/
 
 // 49
 
 // Setup
-var outerWear = "T-Shirt";
+/*var outerWear = "T-Shirt";
 
 function myOutfit() {
   // Only change code below this line
@@ -142,16 +142,30 @@ function myOutfit() {
 var outerWear = "sweater";
 
   // Only change code above this line
-  return outerWear;
-}
+  return outerWear;*/
+/*}
 
-myOutfit();
+myOutfit();*/
 
 // 50
 
-function timesFive(arg) {
+/*function timesFive(arg) {
   return arg * 5;
 }
 var answer = timesFive(5);
+*/
 
+// 56
+
+/*function trueOrFalse(wasThatTrue) {
+  // Only change code below this line
+  if (wasThatTrue) {
+    return "Yes, that was true"
+  } 
+  return "No, that was false"
+
+
+  // Only change code above this line
+
+}*/
 

@@ -604,3 +604,44 @@ var shirtValue = testObj.shirt;    // Change this line*/
 
 var entreeValue = testObj['an entree'];   // Change this line
 var drinkValue = testObj['the drink'];    // Change this line*/
+
+// 82
+
+// Setup
+/*var myDog = {
+  "name": "Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"]
+};
+
+myDog.name = "Happy Coder";
+
+// Only change code below this line*/
+
+// 83
+
+/*var myDog = {
+  "name": "Happy Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"]
+};
+
+myDog.bark = 'gav-gav';*/
+
+// 84
+
+/*// Setup
+var myDog = {
+  "name": "Happy Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"],
+  "bark": "woof"
+};
+
+delete myDog.tails;
+
+// Only change code below this line*/
+

@@ -962,3 +962,12 @@ lookUpProfile("Akira", "likes");*/
 
   // Only change code above this line
 }*/
+
+// 103
+
+/*function randomWholeNum() {
+
+  // Only change code below this line
+
+  return Math.floor(Math.random() * 10);
+}*/

@@ -883,3 +883,15 @@ for (var i = 0; i < myArr.length; i++) {
 }
 
 multiplyAll([[1,2],[3,4],[5,6,7]]);*/
+
+// 99
+
+// Setup
+/*var myArray = [];
+var i = 10;
+
+// Only change code below this line
+do {
+  myArray.push(i);
+  i++;
+} while (i < 5); */

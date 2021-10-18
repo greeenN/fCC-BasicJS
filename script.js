@@ -1003,3 +1003,13 @@ convertToInteger("10011");*/
 }
 
 checkEqual(1, 2);*/
+
+// 108
+
+/*function checkSign(num) {
+ return (num > 0) ? "positive"
+  : (num < 0) ? "negative"
+  : "zero";
+}
+
+checkSign(10);*/

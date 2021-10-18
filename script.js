@@ -748,3 +748,31 @@ phoneticLookup("charlie");*/
   // Only change code above this line
 }*/
 
+
+// 90
+
+/*var myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  },
+  {
+    "artist": "SIDxRAM",
+    "title": "Jean Grey",
+    "release_year": 2016,
+    "formats": [
+      "MP3",
+      "MP4",
+      "DVD"
+    ]
+
+  }
+];
+*/

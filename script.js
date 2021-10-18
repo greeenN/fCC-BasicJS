@@ -815,3 +815,16 @@ var gloveBoxContents = myStorage.car.inside["glove box"];*/
 ];
 
 var secondTree = myPlants[1].list[1];*/
+
+// 93
+
+// Setup
+/*var myArray = [];
+var i = 5;
+
+while(i >= 0) {
+  myArray.push(i);
+  i--;
+}*/
+
+// Only change code below this line

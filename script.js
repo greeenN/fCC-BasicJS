@@ -1,4 +1,4 @@
-/*/*/*/*/*/*/*/*34*/
+/*34*/
 
 /*var myNoun = "dog";
 var myAdjective = "big";
@@ -1013,3 +1013,9 @@ checkEqual(1, 2);*/
 }
 
 checkSign(10);*/
+
+// 109
+
+/*
+let catName = "Oliver";
+let catSound = "Meow!";*/

@@ -1060,3 +1060,15 @@ console.log(FCC, fact);*/
 }
 
 updateRecords(recordCollection, 5439, 'artist', 'ABBA');*/
+
+// 113
+
+/*function rangeOfNumbers(startNum, endNum) {
+    if (endNum - startNum === 0) {
+        return [startNum];
+    } else {
+        let numbers = rangeOfNumbers(startNum, endNum - 1);
+        numbers.push(endNum);
+        return numbers;
+    }
+}*/
